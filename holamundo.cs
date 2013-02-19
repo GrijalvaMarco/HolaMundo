@@ -8,6 +8,9 @@ namespace Application
 		{
 			Console.WriteLine("Hola Mundo");
 			Console.Read();
+			Console.WriteLine("Que hay?");
+			Console.Read();
+
 		}
 	}
 }
